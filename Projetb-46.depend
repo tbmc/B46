@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1445444398 source:c:\users\mehdi\desktop\projetb-46\arbres.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"arbres.h"
+
+1445444398 c:\users\mehdi\desktop\projetb-46\arbres.h
+
+1445442316 source:c:\users\mehdi\desktop\projetb-46\fichiers.c
+	"fichiers.h"
+	<stdio.h>
+
+1445378006 c:\users\mehdi\desktop\projetb-46\fichiers.h
+	"liste_chainees.h"
+	"arbres.h"
+	"table_hash.h"
+
+1445441249 c:\users\mehdi\desktop\projetb-46\liste_chainees.h
+
+1445433780 c:\users\mehdi\desktop\projetb-46\table_hash.h
+	"liste_chainees.h"
+
+1445539135 source:c:\users\mehdi\desktop\projetb-46\liste_chainees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste_chainees.h"
+
+1445421374 source:c:\users\mehdi\desktop\projetb-46\main.c
+	<stdio.h>
+	"menu.h"
+	"fichiers.h"
+
+1445434514 source:c:\users\mehdi\desktop\projetb-46\table_hash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"table_hash.h"
+
+1445446743 source:c:\users\mehdi\desktop\projetb-46\menu.c
+	"menu.h"
+	"fichiers.h"
+	"liste_chainees.h"
+
+1445434854 c:\users\mehdi\desktop\projetb-46\menu.h
+	<stdio.h>
+	"liste_chainees.h"
+
+1445388220 source:f:\projetb-46\arbres.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"arbres.h"
+
+1445378280 f:\projetb-46\arbres.h
+
+1445383118 source:f:\projetb-46\fichiers.c
+	"fichiers.h"
+	<stdio.h>
+
+1445374406 f:\projetb-46\fichiers.h
+	"liste_chainees.h"
+	"arbres.h"
+	"table_hash.h"
+
+1445377830 f:\projetb-46\liste_chainees.h
+
+1445383088 f:\projetb-46\table_hash.h
+	"liste_chainees.h"
+
+1445392086 source:f:\projetb-46\liste_chainees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste_chainees.h"
+
+1445417774 source:f:\projetb-46\main.c
+	<stdio.h>
+	"menu.h"
+	"fichiers.h"
+
+1445390898 f:\projetb-46\menu.h
+	<stdio.h>
+
+1445417844 source:f:\projetb-46\menu.c
+	"menu.h"
+	"fichiers.h"
+
+1445377722 source:f:\projetb-46\table_hash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"table_hash.h"
+
